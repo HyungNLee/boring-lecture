@@ -1,0 +1,23 @@
+.intro {
+  text-align: center;
+}
+/* body {
+   text-align: center;
+ }
+ */
+
+img.intro {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+
+h2.intro {
+  font-style: italic;
+}
+
+p.intro {
+  width: 800px;
+  margin: 0px auto;
+}
